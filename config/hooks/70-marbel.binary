@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "camino debug"
+pwd
+ls -l chroot/boot
+ls -l binary/live
+

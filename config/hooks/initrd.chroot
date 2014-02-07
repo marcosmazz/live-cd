@@ -1,0 +1,4 @@
+echo "generando initrd"
+ls -l /boot
+update-initramfs -c -k 3.13.0-3-686-huayra
+ls -l /boot

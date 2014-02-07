@@ -1,0 +1,5 @@
+echo "generando ramfs"
+update-initramfs -c -k 3.13.0-3-686-huayra
+echo "end ramfs"
+
+
