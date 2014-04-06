@@ -1,13 +1,13 @@
-huayra-desktop-mate
+#huayra-desktop-mate
 #huayra-apps
-huayra-base
-notification-daemon
-huayra-mdm
-huayra-mdm-themes
-update-notifier
-huayra-tda
+#huayra-base
+#notification-daemon
+#huayra-mdm
+#huayra-mdm-themes
+#update-notifier
+#huayra-tda
 
 #if ARCHITECTURES i386
-    huayra-conig
-    huayra-tpm
+#    huayra-conig
+#    huayra-tpm
 #endif

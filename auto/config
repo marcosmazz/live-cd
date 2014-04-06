@@ -54,9 +54,6 @@ elif [ "$ARCH" == "i386" ]; then
 	--apt-recommends false \
 	--apt-source-archives true \
 	--architectures i386 \
-	--initramfs "linux-image-3.13.0-3 linux-image-686-pae" \
-        --linux-package "linux-image-3.13.0-3" \
-        --linux-flavours '686-huayra' \
 	--archive-areas 'main contrib non-free' \
 	--keyring-packages 'debian-archive-keyring mate-archive-keyring huayra-archive-keyring' \
 	--binary-images iso-hybrid \
