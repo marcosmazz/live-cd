@@ -1,0 +1,14 @@
+[connection]
+id=HUAYRA-NET
+uuid=adc3ac20-e2d7-4a17-875f-88f7f6a76f77
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=HUAYRA-NET
+mode=adhoc
+
+[ipv6]
+method=ignore
+
+[ipv4]
+method=link-local
